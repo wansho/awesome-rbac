@@ -1,0 +1,13 @@
+{
+  "blurOnStartup": "hide-private",
+  "blurLevel": 0.6,
+  "blurOnIdleTimeoutSeconds": -1,
+  "hoverToReveal": true,
+  "revealUnderCaret": false,
+  "privateDirs": "",
+  "privateNoteMarker": "#private",
+  "privacyGlasses": false,
+  "editBlurMethod": "blurEdit",
+  "previewBlurMethod": "blurPreview",
+  "uiBlurMethod": "blurUI"
+}

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "ddc2a85472b8560e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f541bd5640a3f7f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139aa4d10cd92d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rbac/chapter-2-Properties-Policies-Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14633a72a13e2f7b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drawing/acls.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4fc3bcc370508538",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drawing/access-control-matrix.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6d07c1f12d3b6f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RBAC的演化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf265c892f20250d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f432ec856f88c297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc368528fd97f16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "830aca03c9962715",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d62f9f5d20991a2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "506d1c3db327ecc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "37253d34c529daed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202daf1fe6ed3176",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RBAC的演化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67305dc3b11b467b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RBAC的演化.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43905fa536f856f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f7a378dd0e2c5b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RBAC的演化.md"
+              }
+            }
+          },
+          {
+            "id": "11a82deff1ad1c5b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8afeb4004dbe75e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "6d07c1f12d3b6f14",
+  "lastOpenFiles": [
+    "drawing/access-control-matrix.excalidraw.md",
+    "RBAC的演化.md",
+    "drawing/latex_block.pdf",
+    "rbac/chapter-1-Introduction.md",
+    "README.md",
+    "rbac/chapter-2-Properties-Policies-Models.md",
+    "CS155-Security Principles and OS Security.pdf",
+    "drawing/acls.excalidraw.md",
+    "drawing/demo.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-01 20.29.51.excalidraw.md",
+    "Excalidraw",
+    "drawing/acls_group.excalidraw.md",
+    "drawing/demo.excalidraw.png",
+    "drawing/authorize_group.excalidraw.md",
+    "drawing/未命名.md",
+    "drawing/excalidraw.md",
+    "drawing/authorize.excalidraw.md",
+    "drawing/authorize.md",
+    "constraint(org).pdf",
+    "离散数学基础知识.md",
+    "drawing",
+    "rbac",
+    "离散数学 -- 左孝凌; 刘永才.pdf"
+  ]
+}

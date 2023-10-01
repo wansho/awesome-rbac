@@ -10,7 +10,7 @@ resources to learn rbac
 * 可能是史上最全的权限系统设计 - 老刘的文章 - 知乎 https://zhuanlan.zhihu.com/p/73414693
 * https://auth0.com/docs/manage-users/access-control/rbac
 * 书：[Role-based Access Control](https://book.douban.com/subject/2586338/)
-
+* cs155: https://cs155.stanford.edu/syllabus.html
 
 
 ## 专有名词
