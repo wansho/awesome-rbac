@@ -23,19 +23,11 @@
             "id": "14633a72a13e2f7b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "drawing/acls.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4fc3bcc370508538",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "drawing/access-control-matrix.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -48,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drawing/access-control-matrix.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drawing/access-control-matrix.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drawing/access-control-matrix.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -198,17 +190,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4fc3bcc370508538",
+  "active": "14633a72a13e2f7b",
   "lastOpenFiles": [
+    "RBAC的演化.md",
+    "drawing/acls.excalidraw.md",
+    "constraint(org).pdf",
+    "离散数学基础知识.md",
+    "参考资料",
+    "README.md",
+    "drawing/access-control-matrix.excalidraw.md",
     "rbac/chapter-2-Properties-Policies-Models.md",
     "Excalidraw/Drawing 2023-10-01 20.29.51.excalidraw.md",
-    "RBAC的演化.md",
-    "drawing/access-control-matrix.excalidraw.md",
     "drawing/latex_block.pdf",
     "rbac/chapter-1-Introduction.md",
-    "README.md",
-    "CS155-Security Principles and OS Security.pdf",
-    "drawing/acls.excalidraw.md",
+    "参考资料/CS155-Security Principles and OS Security.pdf",
     "drawing/demo.excalidraw.md",
     "Excalidraw",
     "drawing/acls_group.excalidraw.md",
@@ -218,10 +213,8 @@
     "drawing/excalidraw.md",
     "drawing/authorize.excalidraw.md",
     "drawing/authorize.md",
-    "constraint(org).pdf",
-    "离散数学基础知识.md",
     "drawing",
     "rbac",
-    "离散数学 -- 左孝凌; 刘永才.pdf"
+    "参考资料/离散数学 -- 左孝凌; 刘永才.pdf"
   ]
 }

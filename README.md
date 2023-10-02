@@ -32,7 +32,6 @@ TCSEC：Trusted Computer System Evaluation Criteria 美国国防部发布的基�
 SoD：separation of duty
 
 
-
 ## Least Privilege
 
 Security Subjects
